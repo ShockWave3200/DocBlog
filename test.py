@@ -1,1 +1,1 @@
-print('os.getcwd()')
+print('ccc')
